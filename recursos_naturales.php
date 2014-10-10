@@ -23,30 +23,14 @@ if(isset($_SESSION['id'])){
 
 <!--contenido pagina-->
 
+
+
 <div class="container" data-contenido="page" id="contenido">
 <article>
 
-<a href="#" class="btn btn-lg btn-success"
-   data-toggle="modal"
-   data-target="#basicModal">Click to open Modal</a>
-
-   <div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&amp;times;</button>
-            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-            </div>
-            <div class="modal-body">
-                <h3>Modal Body</h3>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-        </div>
   <div class="row">
 
-  <div class="col-xs-3"><b>EL agua</b>
+<div class="col-xs-3"><b>EL agua</b>
 Es fundamental para la supervivencia y bienestar de los seres humanos por ello en esta seccion
    encontraremos indicadores y parametros sobre el agua su importancia y cuidado para preservarla por muchos años mas
 Resulta curioso que el 70 por ciento de la Tierra sea agua y que el 70 por ciento de nuestro 
@@ -54,13 +38,12 @@ cuerpo también sea agua. Quizás sea por eso que lo recomendable para tener una
 y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en agua.
 <hr><br>
 
-<!-- Large modal -->
-<button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal</button>
-
+<!-- Button trigger modal -->
+  <button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal</button>
 <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
-       <div class="modal-header">
+      <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <h4 class="modal-title" id="myModalLabel">Modal title</h4>
       </div>
@@ -75,7 +58,13 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
   </div>
 </div>
 
-  </div>
+
+</div>
+
+
+
+
+
   <div class="col-xs-3"><b>El Aire</b>
   En esta seccion se mostrara los diferentes factores e indicadores de contaminacion, indicadores 
   de contaminacion, la importancia de este recurso para nosotros.
@@ -85,6 +74,7 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
     solares. Por otra parte, el vapor de agua que contiene el aire, genera las precipitaciones
    a través de la condensación y la formación de las nub
   </div>
+
   <div class="col-xs-3"><b>Suelo</b>
   el suelo es un recursos natural renovable. Es la capa superior de la tierra, en ella se 
   desarrolla la vegetación. Sirve como depósito para la reserva del agua, nutrientes,oxigeno 
@@ -93,6 +83,7 @@ Por estas razones los suelos son importantes porque constituyen fuentes producto
  alimentos o materias primas que el hombre necesita para satisfacer sus necesidades
   primordiales
   </div>
+
   <div class="col-xs-3"><b>Vegetacion</b>
    la importancia de la vegetación y los árboles para la salud de la tierra ayuda
     a fijar el suelo para prevenir la erosión del mismo y la pérdida de nutrientes.
@@ -103,11 +94,11 @@ formación, el mismo se forma en gran parte gracias a la misma vegetación y la 
  y la captación de CO2 sino que además sin vegetación no hay lluvias, no hay vida, podra 
  existir un mundo sin humanos, pero no sin árboles, al menos no uno con capacidad de albergar vida.
 
-<br><br>
-<a href="http://google.com.co">+ info</a>
-  </div>
+</div>
+</div>
 </article>
 </div>
+
 
 <!--fin contenido pagina-->
 
@@ -125,9 +116,6 @@ require_once "comun/footer.php";
 
 
     <script src="js/menu_reduccion.js"></script>
-    <script type="text/javascript" >
-   
-        </script>
   
 </body>
 </html>
