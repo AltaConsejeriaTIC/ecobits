@@ -45,14 +45,31 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+        <h4 class="modal-title" id="myModalLabel">Titulo</h4>
       </div>
       <div class="modal-body">
-        ...
+        
+<h3>RECURSOS NATURALES</h3>
+Se denominan recursos naturales a aquellos bienes materiales y servicios que proporciona la
+ naturaleza sin alteración por parte del ser humano; y que son valiosos para las sociedades
+  humanas por contribuir a su bienestar y desarrollo de manera directa (materias primas,
+   minerales, alimentos) o indirecta (servicios ecológicos).
+  
+¿CUALES SON LOS TIPOS DE RECURSOS NATURALES?
+ 
+De acuerdo a la disponibilidad en el tiempo, tasa de generación o regeneración y ritmo de uso o consumo podemos clasificar los recursos naturales en dos grandes grupos: renovables y no renovables.
+
+Recursos renovables
+Los recursos naturales renovables hacen referencia a recursos bióticos, recursos con ciclos de regeneración por encima de su extracción, el uso excesivo del mismo lo puede convertir en un recurso extinto (bosques, pesquerías, entre otras) o no limitados (luz solar, mareas, vientos, entre otros);
+Ciertos recursos renovables pueden dejar de serlo si su tasa de utilización es tan alta que evite su renovación. Dentro de esta categoría de recursos renovables encontramos al agua y a la biomasa.
+
+Algunos de los recursos renovables son: el bosque, el agua, los vientos, los peces, radiación solar, energía hidráulica, madera, energía eólica y productos de agricultura.
+
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-primary">Guardar Cambios</button>
       </div>
     </div>
   </div>
@@ -69,7 +86,7 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
   mantienen unas condiciones adecuadas de humedad y temperatura por medio del efecto invernadero.
    Además, el aire en la atmósfera, en concreto la capa de ozono, protege de las radiaciones
     solares. Por otra parte, el vapor de agua que contiene el aire, genera las precipitaciones
-   a través de la condensación y la formación de las nub
+   a través de la condensación y la formación de las nubes.
   </div>
 
 
