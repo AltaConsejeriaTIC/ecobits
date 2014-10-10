@@ -63,56 +63,6 @@
       </div>
       <div class="modal-body">
         
-<h3>RSENCILLAS ACCIONES QUE AYUDAN A CUIDAR EL MEDIO AMBIENTE</h3>
-
-RECICLA
-Todos hemos escuchado que debemos reciclar, pero mucha gente aún no sabe por dónde empezar. El reciclar va más allá de separar los residuos que generamos en casa. Hay muchos trucos y consejos para reciclar y ahorrar energía y con ello preservar el medio ambiente. Estas acciones también ayudan a ahorrar dinero en casa al final de mes.
-•	Compra líquidos en botellas de vidrio retornables.
-•	Utiliza el papel por las dos caras.
-•	Utiliza botellas vacías de refresco para tirar el aceite quemado de la cocina. 
-•	Regala la ropa que se te ha hecho pequeña.
-•	Utiliza cajas de cartón.
-•	Reutiliza las bolsas de plástico.
-•	Evita productos envasados en plástico.
-
-COMPRA CON LAS TRES R
-Las tres R de la ecología son reducir, reutilizar y reciclar 
-Reduce: Todo aquello que compras y consumes tiene una relación directa con lo que tiras. Por ello, consume racionalmente y evita el derroche. Elige los productos con menos envoltorios,  reduce el uso de productos tóxicos y contaminantes, disminuye el uso de papel de aluminio, limita el consumo de productos de usar y tirar.
-Reutilizar consiste en darle la máxima utilidad a las cosas sin necesidad de destruirlas o deshacernos de ellas. Cuantos más objetos reutilices, menos basura producirás y menos recursos agotables gastarás. 
-Reciclar consiste en usar los materiales una y otra vez para hacer nuevos productos reduciendo en forma significativa la utilización de nuevas materias primas
-
-
-EVITA EL USO DEL ICOPOR
-Éste es uno de los materiales menos amigables con el ambiente, no se recicla y no es biodegradable. Incluso, tras 500 años, la bandejita o vasito que tenías en la mano esta mañana estará en algún lugar de la superficie terrestre, además de ser un plástico hecho a partir de un derivado del petróleo conocido como estireno, el cual es considerado actualmente como un posible cancerígeno.
-
-REDUCE EMISIONES DE DIÓXIDO DE CARBONO CO2
-Simple, recuerda: apaga la luz. Esta acción no aplica solamente a las empresas sino a cada uno de nosotros como personas. Muchísimas veces dejamos nuestro lugar de trabajo y no apagamos la luz, ni el aire acondicionado, ni la computadora, ni la pantalla. Cuando apagas una luz que nadie usa no desperdicias el combustible fósil (no renovable) que se usa para generarla. Aplica esta acción en tu casa: apaga el televisor encendido cuando nadie lo está mirando o la computadora cuando no la usas. Otro ejemplo de cómo consumimos energía que no usamos:
-¿Sabías que las pequeñas luces testigos; (rojas, azules, amarillas, etc.) de nuestros artefactos también consumen energía innecesaria?  Y los relojes de los microondas, radios y cafeteras también.
-¿Cuántas de estas pequeñas luces tenemos siempre encendidas en casa? Al menos cuatro o cinco seguramente. Te imaginas los millones que hay encendidas en este momento en el mundo y sólo para avisarnos que algo está en standby?
-
-AHORRA AGUA
-Existen varias medidas que pueden contribuir al ahorro y mejor utilización del agua. Tengamos un consumo responsable del agua y contribuyamos así a su cuidado.
-En la cocina: Usemos detergentes sin fosfatos. Cuando lavemos los platos coloque un tapón, con esto se pueden llegar a ahorrar hasta 80 litros de agua. Es mejor utilizar la lavadora cuando se tenga una carga completa.
-En la regadera: Si optas por tomar duchas en lugar de bañarte, puedes ahorrar unos 100 litros de agua. Si cierras la llave mientras te enjabonas ahorrarás unos 10 litros. Si instalas un cabezal de bajo consumo puede ahorrar 50 mil litros al año. Al ahorrar agua caliente no sólo ahorras agua, sino también energía. &#8226; En el baño: Evita descargas innecesarias. Con esta medida además de ahorrar agua evitamos contaminar las aguas residuales. 
-Jardines: Si tienes jardín planta especies autóctonas; éstas consumen menos agua. Las zonas pequeñas pueden regarse utilizando una regadera e incluso puedes regar las plantas reutilizando el agua con la que has lavado verduras o frutas. Además es recomendable utilizar perlizadores en los grifos.
-
-EVITA LAS BOLSAS PLÁSTICAS
-Las bolsas de polietileno tardan aproximadamente 150 años en degradarse. Una persona usa 500 bolsas descartables de polietileno por año. Están afectan al medio ambiente, contaminan el planeta, provocan gases de invernadero, taponean alcantarillas, ensucian las calles y los cursos de agua, además de causar la muerte de millones de animales marinos, por lo que la recomendación básica es lleva tu propia bolsa al súper-Mercado, además de ser totalmente ecológico. Existen modelos en algodón con forro y tejidas que se están poniendo de moda y existen en gran variedad. En los siguientes países tienen impuestos para desalentar el uso: Australia, Estados Unidos, Inglaterra, Italia, Bélgica, Suiza, Alemania, Holanda, España y Noruega. Muchos de estos países evalúan prohibirlas definitivamente.  Ciudades como San Francisco y Oakland promueven las bolsas reutilizables de tela.
-
-AHORRA GASOLINA
-Básicamente sólo el 13% de la energía que contiene la gasolina del tanque se utiliza para mover el automóvil, el resto se pierde en forma de calor y de energía para que entre aire al motor y salgan los gases que son producidos por la combustión. Si conduces un auto, seguramente te preguntarás: 
-¿Cómo reducir el consumo de gasolina? El arranque en frío, frenar y acelerar continuamente, la fricción constante entre las partes mecánicas y de rodamiento, la resistencia que ofrece el aire al avanzar, etcétera, dan origen a un mayor consumo de combustible y a una contaminación inútil. La solución es sencilla, pues sólo tenemos que tomar medidas relacionadas con nuestros hábitos de manejo que pueden disminuir hasta en un 30% el gasto que realizamos en gasolina, además de prolongar la vida útil de las partes de nuestro automóvil y brindarnos mayor seguridad al conducir. Como cuando estamos detenidos frente a un cruce de trenes, mientras esperas apaga el motor, piensa que si todos los que están en tu misma situación hacen lo mismo se ahorrarían millones de toneladas de combustible y tú también ahorrarías
-
-
-INVESTIGA
-No basta sólo reciclar y separar. Tirar la basura en los lugares indicados y llevarla a centros de acopio es lograr el ciclo completo en el manejo de basura. Esto es, en la oficina y en las escuelas existen lugares en donde se pueden tirar las pilas; en los hospitales y otros lugares se recolectan las radiografías; los aparatos electrónicos es recomendable llevarlos a lugares en donde los reparan o separarlos para cuando pase el colector. Jamás tire las pilas del celular, mejor llevarlas a centros de atención o reparación telefónica, ellos tienen el manejo adecuado
-
-
-CUIDA A TU MASCOTA
-Cuando pasees a tu mascota recoge sus desechos, ya que son una de las principales fuentes propagación de enfermedades, de contaminación visual y de contaminación aeróbica. Los parques también se usan para ejercitarse y es en este momento cuando los pulmones se encuentran más vulnerables ante los contaminantes y las bacterias que se aspiran en el medio. Recoge sus desechos con papel periódico y utiliza una sola bolsa para ello
-
-PRACTICA Y ENSEÑA LA CULTURA AMBIENTAL
-Finalmente, lo más importante de todo esto es educar y enseñar a los que tenemos a nuestro alrededor, porque si todos ponemos de nuestra parte aún tenemos esperanzas. Recordemos que las ausencias no necesitan estar iluminadas. Piensa cómo generar una cultura en la que todos asuman la responsabilidad de apagar las luces. Una oficina encendida por la noche gasta suficiente energía como para preparar mil tazas de café. El uso racional de la energía es también responsabilidad social empresarial: realizando esta acción, su compañía puede sentar un precedente e impulsar a otras compañías a seguir su buen ejemplo
 
 
       </div>
