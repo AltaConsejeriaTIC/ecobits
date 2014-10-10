@@ -38,6 +38,15 @@
     top:0px;
 }
 
+.imglogo
+{
+  width: 80px;
+  float: left;
+  margin: 5px;
+
+}
+
+
 /*estilo del menu secundario*/
 
 #menu_secundario{
