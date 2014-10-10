@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>[EcoBits]</title>
         <link href="style/css/bootstrap.css" rel="stylesheet" type="text/css" />
+        <link href="style/css/index.css" rel="stylesheet" type="text/css" />
+        
        
     </head>
 <body>
@@ -16,7 +18,6 @@
     					<div id="div_circle">
 	    					<b>¡Bienvenido!</b> EcoBits es un sitio en el cual queremos que te sumergas por unos minutos.
 	    					Estamos comprometidos con el medio ambiente en la ciudad y tenemos información que te será útil para ayudar a cuidarlo.
-
 	    					<br>   					
 	    					<hr>
 	    					<br>
@@ -25,26 +26,71 @@
 	    					</form>
 	    					<button class="btn btn-success" id="entrar" name="entrar" style="margin-top:10px;">Empezar</button>
     					</div>
-    					<div id="redes_sociales">
-    						<table class="redes_sociales" align="center">
-    							<tr>
-    								<td><a href="https://github.com/AltaConsejeriaTIC/ecobits" target="_blank" title="Ver el proyecto en GitHub"><img src="img/github.png" style="width:30px"></a></td>
-    							</tr>
-
-
-    							<td><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://luiscastillo.com.co/eco" data-text="Aprede e informate en EcoBits, Bogotá lo necesita" data-hashtags="HackathonPorLaPaz">Tweet</a>
-    								</td>
-    							</tr>
-    						</table>
-    					</div>
+    					
     				</div>
     				<div class="col-sm-6">
-    						</table>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+
+    				<div class="row">
+    					<div class="col-xs-6">
+    						<img src="img/logo.png" style="width:90%;" class="sombra" id="EcoBits" data-container="body" data-toggle="popover" title="¿Qué es EcoBits?" data-placement="top" data-content="Es un sitio desarrollado con filosfia de software libre por y para los ciudadanos que queiren hacer de bogotá una Eco-Ciudad">    
+    					</div>
+    					<div class="col-xs-6">
+    						<img src="img/hackathon.gif" style="width:100%;" class="sombra" id="Hackathon" data-container="body" data-toggle="popover" title="Sobre la Hackathon" data-placement="right" data-content="La hackathon es un espacio que reúne a varios laboratorios tecnológicos para el desarrollo de aplicaciones TIC que contribuyan a la solución de necesidades sociales dentro del marco de Ciudad Inteligente con Software Libre.">  
+    						<br><br>
+    						<center>
+    						<p id="visitas"  class="sombra" style="background:white">
+    						
+    							Eres el visitante N°<br>
+    							<b><span>145</span></b>
+    						</p>
+    						</center>
+    					</div>
+    				</div>
+    				<div class="row">
+    					<div class="col-xs-12">
+    						<div class="panel panel-info sombra">
+    							<div class="panel-body" style="padding:5px;">
+    								<table class="apoya">
+    									<tr>
+    										<td><img src="img/alcaldia_bog.png"></td>
+    										<td><img src="img/c_alta_tec.png"></td>
+    									</tr>
+    									<tr>
+    										<td><img src="img/tecno_parque.png"></td>
+    										<td><img src="img/tic_bogota.png"></td>
+    									</tr>	
+    									<tr>
+    										<td colspan="2"><img src="img/vive_lab.png"></td>
+    									</tr>
+    								</table>
+    							</div>
+    						</div>
+    					</div>
+    				</div>						
+    			</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+ <div id="fb-root"></div>
+<div id="fb-root"></div>
+
+
+
+    
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+
+$('document').ready(function(){
+		$('#contenedor').fadeIn(3000);
+		
+		$('#EcoBits').popover();
+		$('#Hackathon').popover();
+	});
+</script>
+<script src="js/index.js" type="text/javascript"></script>
 </body>
 </html>
