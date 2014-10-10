@@ -58,8 +58,8 @@
   <div class="container">
  <div class="row placeholders">
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m1">
-        <img class="img-responsive"  src="img/recu.png">
-        <div>Recursos Naturales</div>
+        <a href="recursos_naturales.php"><img class="img-responsive"  src="img/recu.png"></a>
+        <a href="recursos_naturales.php"><div>Recursos Naturales</div></a>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m2">
        <img class="img-responsive "  src="img/clima.png">
