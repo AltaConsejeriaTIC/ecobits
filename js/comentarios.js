@@ -12,19 +12,32 @@ var nombres = document.getElementById("nombre");
 var php = "funciones/comentarios.php";
 
 $('document').ready(function(){
+	consulta_coments();
 	$('#enviar').click(enviar());
 });
 
 function enviar(){
+	return function(e){
 	Ajax(php,function(){
 			var msj = {};
 			msj.accion = "enviar";
-			msj.id_user = 
-			msj.usuario =
-			msj.email =
-			msj.mensaje =
+			msj.nombres = $('#nombres').val();
+			msj.email = $('#email').val();
+			msj.mensaje = $('#mensaje').val();
 			return "request="+JSON.stringify(msj);
 		},function(response){
-			console.log(response);
+			
+		});
+	consulta_coments();
+	}
+}
+
+function consulta_coments(){
+
+	Ajax(php,function(){
+			return "request="+JSON.stringify({accion:'consulta'});
+		},function(response){
+			var data = (JSON.parse(response));
+			$('#caja_comentarios').html(data);
 		});
 }
