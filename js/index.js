@@ -15,22 +15,31 @@ var php = "funciones/ingreso.php";
 
 $('document').ready(function(){
 	$('#entrar').click(ingresar());
+	$('#guiado').click(function(){
+		$('#recorrido').val("si");
+		document.form_ingreso.submit();
+	});
+	$('#no_guiado').click(function(){
+		$('#recorrido').val("no");
+		document.form_ingreso.submit();
+	});
 });
 
-function ingresar()
-{
+function ingresar(){
 	return function(){
 		validacion = validar_nombre();
 
 		if(validacion==true){
-			document.form_ingreso.submit();
-		}else{
+			$('#nom').html(nombres.value);
+			$('#modal_index').fadeIn();
+			$('#modal_pregunta').fadeIn();
+				
+		}else
 			alert("Error");
 		}
 
 	}
 	
-}
 
 function validar_nombre(){
 	if(nombres.value.length>0){
