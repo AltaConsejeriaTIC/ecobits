@@ -74,7 +74,7 @@
         <div class="">Reciclaje</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m5">
-         <img class="img-responsive "  src="img/cam.png">
+         <a href="consejos.php"><img class="img-responsive "  src="img/cam.png"></a>
         <div class="">Consejos</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m6">
