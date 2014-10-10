@@ -1,0 +1,130 @@
+#logo{
+  width:200px; 
+  z-index:1; 
+  position:absolute;
+}
+
+.menu2{
+        text-align: center;
+      }
+      .ico{
+        height: 100px;
+      }
+      .col-xs-4 col-sm-2 img{
+        text-align: center;
+      }
+
+  #contenido{
+    background: white;
+    height: 100% !important;
+  }
+  
+
+  .fixed {
+    position:fixed;
+    top:0px;
+}
+
+/*estilo del menu secundario*/
+
+#menu_secundario{
+    background: white;
+    opacity: 0;
+    margin-top: 40px;
+    width: 100%;
+}
+
+._menu2{
+  padding: 0;
+  cursor: pointer;
+}
+._menu2 div{
+    margin: 0;
+}
+
+.m1{
+  background: rgba(9,33,212,0.3);
+}
+.m1 div{
+  background: rgba(9,33,212,0.8);
+}
+.m2{
+  background: rgba(89,33,24,0.3);
+}
+.m2 div{
+  background: rgba(89,33,24,0.8);
+}
+.m3{
+  background: rgba(9,33,216,0.3);
+}
+.m3 div{
+  background: rgba(9,33,216,0.8);
+}
+.m4{
+  background: rgba(19,5,57,0.3);
+}
+.m4 div{
+  background: rgba(19,5,57,0.8);
+}
+.m5{
+  background: rgba(69,33,21,0.3);
+}
+.m5 div{
+  background: rgba(69,33,21,0.8);
+}
+.m6{
+  background: rgba(9,37,22,0.3);
+}
+.m6 div{
+  background: rgba(9,37,22,0.8);
+}
+
+
+.m1 img,.m2 img,.m3 img,.m4 img,.m5 img,.m6 img{
+  margin: auto;
+  width: 40%;
+  transition: all 0.5s ease-in-out;
+}
+.m1 img:hover,.m2 img:hover,.m3 img:hover,.m4 img:hover,.m5 img:hover,.m6 img:hover{
+  transform:  scale(1.1,1.1);
+}
+
+.m1 div,.m1 div,.m2 div,.m3 div,.m4 div,.m5 div,.m6 div{
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+  color:white;
+  text-shadow: 2px 2px 5px black;
+}
+
+.m1:hover{
+  background: rgba(9,33,212,0.6);
+}
+.m2:hover{
+  background: rgba(89,33,24,0.6);
+}
+.m3:hover{
+  background: rgba(9,33,216,0.6);
+}
+.m4:hover{
+  background: rgba(19,5,57,0.6);
+}
+.m5:hover{
+  background: rgba(69,33,21,0.6);
+}
+.m6:hover{
+  background: rgba(9,37,22,0.6);
+}
+
+footer{   
+   height: 3em;
+   z-index: 30;
+   width: 100%;
+   background: #EFEFEF;
+   border-top: 3px solid #DBDBDB;
+   color: #A5A5A5;
+   margin-top: 1.5em;
+   padding: .6em 0;
+   text-shadow: 1px 1px 0 rgba(219,219,219, 1);
+   position: fixed;bottom: 0px;
+}
