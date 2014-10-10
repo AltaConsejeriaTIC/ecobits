@@ -28,8 +28,8 @@ if(isset($_SESSION['id'])){
 <div class="container" data-contenido="page" id="contenido">
 <article>
 
-  <div class="row">
-
+<div class="row">
+<br><br>
 <div class="col-xs-3"><b>EL agua</b>
 Es fundamental para la supervivencia y bienestar de los seres humanos por ello en esta seccion
    encontraremos indicadores y parametros sobre el agua su importancia y cuidado para preservarla por muchos años mas
@@ -62,9 +62,6 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
 </div>
 
 
-
-
-
   <div class="col-xs-3"><b>El Aire</b>
   En esta seccion se mostrara los diferentes factores e indicadores de contaminacion, indicadores 
   de contaminacion, la importancia de este recurso para nosotros.
@@ -75,6 +72,7 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
    a través de la condensación y la formación de las nub
   </div>
 
+
   <div class="col-xs-3"><b>Suelo</b>
   el suelo es un recursos natural renovable. Es la capa superior de la tierra, en ella se 
   desarrolla la vegetación. Sirve como depósito para la reserva del agua, nutrientes,oxigeno 
@@ -83,6 +81,7 @@ Por estas razones los suelos son importantes porque constituyen fuentes producto
  alimentos o materias primas que el hombre necesita para satisfacer sus necesidades
   primordiales
   </div>
+
 
   <div class="col-xs-3"><b>Vegetacion</b>
    la importancia de la vegetación y los árboles para la salud de la tierra ayuda
