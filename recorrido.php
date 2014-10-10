@@ -1,46 +1,16 @@
-<!DOCTYPE html>
+<?php
+require_once 'comun/class.dbDriver.php';
+$db = new DBDriver(PDOConfig::getInstance());
+session_start();
+if(isset($_SESSION['id'])){
+?><!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<title>Index2</title>
 	  <link href="style/css/bootstrap.css" rel="stylesheet">
     <link href="style/css/general.css" rel="stylesheet">
-    <link href="style/css/carrusel.css" rel="stylesheet">
-    <style>
-    .only_menu{
-    margin-top: 20px;
-    z-index: 10;
-  }
-  .page{
-    background: repeat;
-    display: none;
-    width: 100%;
-    overflow: auto;
-    min-height: 100%;
-    position: absolute;
-    z-index: 1;
-    top: 0;
-    bottom: 0;
-  }
-  #left{
-    top:45%; 
-    left: 0;
-    z-index: 21;
-    position: fixed;
-    bottom: 50%;
-    padding: 5px;
-    cursor: pointer;
-  }
-  #right{
-    top:45%; 
-    right: 0;
-    z-index: 21;
-    position: fixed;
-    bottom: 50%;
-    padding: 5px;
-    cursor: pointer;
-  }
-    </style>
+    <link href="style/css/carrusel.css" rel="stylesheet"
   
 </head>
 <body>
@@ -111,64 +81,15 @@
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.min.js"></script>
      <script src="js/menu_reduccion.js"></script>
-     <script>
-        var contador = 1;
-        var anterior;
-        var limite = 4;
-        document.onkeyup =function TelcaPulsada( e ) {  
-           if ( window.event != null)              
-              tecla = window.event.keyCode;  
-           else if ( e != null )               
-              tecla = e.which;  
-           else  
-              return;
-           if (tecla == 39) {
-              desplazamiento("derecha");
-           }else if (tecla == 37){
-              desplazamiento("izquierda");
-           }
-        }
-
-        $('body').on('DOMMouseScroll mousewheel',function(event){
-          if(event.originalEvent.detail > 0 || event.originalEvent.wheelDelta < 0){
-             desplazamiento("derecha");
-           }else{
-             desplazamiento("izquierda");
-           }
-           return false;
-        });
-
-        $('#left').click( function(){ desplazamiento("izquierda");});
-        $('#right').click( function(){ desplazamiento("derecha");});
-
-        function desplazamiento(direccion){
-         anterior = contador;
-          for(var i=1;i<=limite;i++){
-                if(i!=anterior)
-                  document.getElementById(i).style.display='none';
-          }
-
-         
-          switch(direccion){
-            case "derecha":
-                 contador = (contador>=limite)?contador:contador+1;
-            break;
-            case "izquierda":
-                contador = (contador==1)?contador:contador-1;
-            break;
-          }
-           
-              if($('#'+contador)){
-                if(anterior!=contador){
-                 $('#'+anterior).fadeOut(500);
-                 $('#'+contador).fadeIn(500);
-                  }                  
-                }
-          }
-
-     </script>
+     <script src="js/recorrido.js"></script>
 
 
 
 </body>
 </html>
+<?php
+}else{
+  header('Location: index.html');
+}
+
+?>
