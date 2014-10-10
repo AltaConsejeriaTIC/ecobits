@@ -46,27 +46,27 @@
   <div class="container">
  <div class="row placeholders">
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m1">
-        <img class="img-responsive"  src="img/iconos/salud.png">
+        <img class="img-responsive"  src="img/salud.png">
         <div>Something else</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m2">
-       <img class="img-responsive "  src="img/iconos/cam.png">
+       <img class="img-responsive "  src="img/cam.png">
         <div class="">Something else</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m3">
-         <img class="img-responsive" src="img/iconos/recu.png">
+         <img class="img-responsive" src="img/recu.png">
         <div class="">Something else</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m4">
-          <img class="img-responsive "  src="img/iconos/reci.png">
+          <img class="img-responsive "  src="img/reci.png">
         <div class="">Something else</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m5">
-         <img class="img-responsive "  src="img/iconos/clima.png">
+         <img class="img-responsive "  src="img/clima.png">
         <div class="">Something else</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m6">
-        <img class="img-responsive "  src="img/iconos/book.png">
+        <img class="img-responsive "  src="img/book.png">
         <div class="">Something else</div>
       </div>
     </div>
