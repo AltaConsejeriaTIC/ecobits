@@ -51,6 +51,26 @@
 
 ---------------------------------------------------------------------------------------------------
 
+##### TERMINOLOGIA DE COMMIT
+
+> [doc] Documentacion
+>
+> [dev] Desarrollo
+	* HTML
+	* CSS
+	* PHP
+
+> [sql] Consultas
+>
+> [media] img, videos
+>
+> [del] Eliminacion de archivos o directorios
+
+
+---------------------------------------------------------------------------------------------------
+
+## ECOTECH
+
 ### EQUIPO DE TRABAJO
 
 > Luis Alberto Castillo Bello
@@ -58,3 +78,5 @@
 > Jose Luis Lineros Hurtado
 >
 > Stephen Guisseppe Barreto Pinilla
+
+---------------------------------------------------------------------------------------------------
