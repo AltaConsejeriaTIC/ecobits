@@ -12,13 +12,13 @@
           <img src="img/city.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Gy rules.</p>
+              <h1>ECOBITS</h1>
+              <p>Cuida el medio ambiente</p>
             </div>
           </div>
         </div>
         <div class="item active">
-          <img src="img/bar.png" alt="Second slide">
+          <img src="img/banner1.png" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Another example headline.</h1>
@@ -27,7 +27,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="img/bar.png" alt="Third slide">
+          <img src="img/banner2.png" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>One more for good measure.</h1>
@@ -46,27 +46,27 @@
   <div class="container">
  <div class="row placeholders">
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m1">
-        <img class="img-responsive"  src="img/logo.png">
+        <img class="img-responsive"  src="img/iconos/salud.png">
         <div>Something else</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m2">
-       <img class="img-responsive "  src="img/logo.png">
+       <img class="img-responsive "  src="img/iconos/cam.png">
         <div class="">Something else</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m3">
-         <img class="img-responsive" src="img/logo.png">
+         <img class="img-responsive" src="img/iconos/recu.png">
         <div class="">Something else</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m4">
-          <img class="img-responsive "  src="img/logo.png">
+          <img class="img-responsive "  src="img/iconos/reci.png">
         <div class="">Something else</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m5">
-         <img class="img-responsive "  src="img/logo.png">
+         <img class="img-responsive "  src="img/iconos/clima.png">
         <div class="">Something else</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m6">
-        <img class="img-responsive "  src="img/logo.png">
+        <img class="img-responsive "  src="img/iconos/book.png">
         <div class="">Something else</div>
       </div>
     </div>
