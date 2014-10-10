@@ -66,7 +66,7 @@
         <div class="">Cambio Climatico</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m3">
-         <a href="img/salud_ambiental.php"><img class="img-responsive" src="img/salud.png">
+         <a href="salud_ambiental.php"><img class="img-responsive" src="img/salud.png">
         <div class="">Salud Ambiental</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m4">
