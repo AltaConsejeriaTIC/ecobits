@@ -16,9 +16,8 @@
 >
 >Especificos
 >
- *Orientar a los ciudadanos y en especial a los menores y jovenes sobre la utilidad y el aprevechamiento del uso de las TIC's como beneficio para la sociedad y el ambiente
-
- *Aumentar la perspectiva tecnologica de la ciudad y hacerla ejemplo ambiental frente a otras por medio de aplicaciones tecnologicas
+> * Orientar a los ciudadanos y en especial a los menores y jovenes sobre la utilidad y el aprevechamiento del uso de las TIC's como beneficio para la sociedad y el ambiente
+> * Aumentar la perspectiva tecnologica de la ciudad y hacerla ejemplo ambiental frente a otras por medio de aplicaciones tecnologicas
 
 ---------------------------------------------------------------------------------------------------
 
@@ -49,8 +48,13 @@
 >
 > jQuery V11.1
 
-### EQUIPO DE TRABAJO
 
 ---------------------------------------------------------------------------------------------------
 
+### EQUIPO DE TRABAJO
 
+> Luis Alberto Castillo Bello
+>
+> Jose Luis Lineros Hurtado
+>
+> Stephen Guisseppe Barreto Pinilla
