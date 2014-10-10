@@ -27,6 +27,10 @@
     background: white;
     height: 100% !important;
   }
+  article{
+    padding: 10px;
+    text-align: justify;
+  }
   
 
   .fixed {
@@ -121,7 +125,7 @@ footer{
    height: 3em;
    z-index: 30;
    width: 100%;
-   background: rgba(0,0,0,0.99);
+   background: rgba(0,0,0,0.80);
    border-top: 3px solid #DBDBDB;
    color: #A5A5A5;
    margin-top: 1.5em;
