@@ -46,28 +46,28 @@
   <div class="container">
  <div class="row placeholders">
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m1">
-        <img class="img-responsive"  src="img/salud.png">
-        <div>Something else</div>
+        <img class="img-responsive"  src="img/recu.png">
+        <div>Recursos Naturales</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m2">
        <img class="img-responsive "  src="img/cam.png">
-        <div class="">Something else</div>
+        <div class=""></div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m3">
-         <img class="img-responsive" src="img/recu.png">
-        <div class="">Something else</div>
+         <img class="img-responsive" src="img/salud.png">
+        <div class="">Salud Ambiental</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m4">
           <img class="img-responsive "  src="img/reci.png">
-        <div class="">Something else</div>
+        <div class="">Reciclaje</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m5">
          <img class="img-responsive "  src="img/clima.png">
-        <div class="">Something else</div>
+        <div class="">Cambio Climatico</div>
       </div>
        <div class="col-xs-4 col-sm-2 placeholder _menu2 m6">
         <img class="img-responsive "  src="img/book.png">
-        <div class="">Something else</div>
+        <div class="">Libro de Visitas</div>
       </div>
     </div>
   </div>
