@@ -2,10 +2,10 @@
 
 class PDOConfig{
     private static $instance;
-    private $host = 'servidor';
-    private $db_name = 'db';
-    private $user = 'user';
-    private $pass = 'pass';
+    private $host = 'localhost';
+    private $db_name = 'ecobits';
+    private $user = 'root';
+    private $pass = 'root';
     private $assoc = PDO::FETCH_ASSOC;
     
     private function __construct(){}
