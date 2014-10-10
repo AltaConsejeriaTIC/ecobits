@@ -53,7 +53,7 @@
 	
 
 	<!-- Button trigger modal -->
-  <button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal</button>
+  <button class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg"> Mas Info</button>
 <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
@@ -67,7 +67,7 @@
 
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">cerrar</button>
         
       </div>
     </div>
