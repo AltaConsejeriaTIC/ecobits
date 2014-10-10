@@ -23,18 +23,7 @@ if(isset($_SESSION['id'])){
 
 <!--contenido pagina-->
 
-<div class="container" data-contenido="page" id="contenido">
-<article>
-  <div class="row">
 
-  <div class="col-xs-3">asdasda
-  </div>
-  <div class="col-xs-6">sdasdas
-  </div>
-  <div class="col-xs-3">dsasdasd
-  </div>
-</article>
-</div>
 
 <!--fin contenido pagina-->
 
