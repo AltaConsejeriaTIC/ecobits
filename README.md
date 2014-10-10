@@ -7,24 +7,24 @@
 #### Por medio de un portal web se busca integrar los aspectos primordiales a tener en cuenta  para hacer de bogota una eco-ciudad; hacerla un ejemplo de compromiso y cuidado con la naturaleza.
 
 ### En este portal web se encontrara informacion sobre:
->recursos naturales
->reciclaje
->cambio climatico
->salud ambiental 
->entre otros
->consejos de como cuidar el medio ambiente y aprovechar los recursos a maximo
+> recursos naturales
+> reciclaje
+> cambio climatico
+> salud ambiental 
+> entre otros
+> consejos de como cuidar el medio ambiente y aprovechar los recursos a maximo
 
 
 
 ## REQUERIMIENTOS DEL SISTEMA
 
->SO (Windows, iOS, Linux - Cualquier distribuciob que soporte servidores locales)
->apache V2.2
->MySQL
->PHP V5.3 o superior
->PDO MySQL enable
->Bootstrap V3.2.0
->jQuery V11.1
+> SO (Windows, iOS, Linux - Cualquier distribuciob que soporte servidores locales)
+> apache V2.2
+> MySQL
+> PHP V5.3 o superior
+> PDO MySQL enable
+> Bootstrap V3.2.0
+> jQuery V11.1
 
 
 
