@@ -56,9 +56,12 @@
 > [doc] Documentacion
 >
 > [dev] Desarrollo
-	* HTML
-	* CSS
-	* PHP
+
+* HTML
+* CSS
+* PHP
+* JS
+
 
 > [sql] Consultas
 >
