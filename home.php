@@ -15,36 +15,27 @@ if(isset($_SESSION['id'])){
     
 </head>
 <body>
+
   <?php
   require_once "comun/menu.php";
   require_once "comun/template.php";
   ?>
 
-
 <!--contenido pagina-->
+
 <div class="container" data-contenido="page" id="contenido">
 <article>
-  aPara la nave de carga de la Agencia Espacial Europea, véase Julio Verne (nave).
-Julio Verne
-Félix Nadar 1820-1910 portraits Jules Verne.jpg
-Retrato de Julio Verne por Félix Nadar (circa 1878).
-Nacimiento  8 de febrero de 1828
-Pavillon royal de France.svg Nantes, Reino de Francia
-Defunción   24 de marzo de 1905 (77 años)
-Bandera de Francia Amiens, Tercera República Francesa
-Nacionalidad  Bandera de Francia Francés
-Ocupación   Escritor
-Género  Ciencia ficción, Aventuras
-Influido por[mostrar]
-Firma   Firma de Julio Verne.svg
+  <div class="row">
 
-Jules Gabriel Verne (Nantes, 8 de febrero de 1828-Amiens, 24 de marzo de 1905), conocido en los países de lengua española como Julio Verne, fue un escritor, poeta y dramaturgo francés célebre por sus novelas de aventuras y por su profunda influencia en el género literario de la ciencia ficción.
-
-Nacido en el seno de una familia burguesa en la ciudad portuaria de Nantes, Verne recibió formación para continuar los pasos de su padre como abogado, pero muy joven decidió abandonar ese camino para dedicarse a escribir. Su colaboración con el editor Pierre-Jules Hetzel dio como fruto la creación de Viajes extraordinarios, una popular serie de novelas de aventuras escrupulosamente documentadas y visionarias entre las que se incluían las famosas Viaje al centro de la Tierra, Veinte mil leguas de viaje submarino y La vuelta al mundo en ochenta días.
-
-Julio Verne es uno de los más importantes escritores de Francia y de toda Europa gracias a la evidente influencia de sus libros en la literatura vanguardista y el surrealismo,1 y desde 1979 es el segundo autor más traducido en el mundo, después de Agatha Christie.2 Es considerado, junto con H. G. Wells, «El padre de la ciencia ficción».3 Fue condecorado con la Legión de Honor por sus aportes a la educación y a la ciencia
+  <div class="col-xs-3">asdasda
+  </div>
+  <div class="col-xs-6">sdasdas
+  </div>
+  <div class="col-xs-3">dsasdasd
+  </div>
 </article>
 </div>
+
 <!--fin contenido pagina-->
 
 <?php
