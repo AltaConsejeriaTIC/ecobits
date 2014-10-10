@@ -18,26 +18,31 @@ QUERY;
 
 
 if($_POST['nombre']){
-  guardar_usuario($db,$_POST['nombre'],$almacena,$consulta);
+  $recorrido=$_POST['recorrido'];
+  guardar_usuario($db,$_POST['nombre'],$recorrido,$almacena,$consulta);
 }else{
-  echo "HOla";
+  echo "hola";
   //validar_conexion():
 }
 
 
-function guardar_usuario($db,$nombres,$almacena,$consulta){
+function guardar_usuario($db,$nombres,$recorrido,$almacena,$consulta){
 
-$nombres = strip_tags(trim($nombres));
+$nombres = strtoupper(strip_tags(trim($nombres)));
 $db->set($almacena,array($nombres,date('Y-m-d H:i:s')));
 
 $resultado=$db->set($consulta,array());
 $id = $resultado[0]["id_usuario"];
 
 session_start();
-$_SESSION['usuario']=$nombre;
+$_SESSION['usuario']= strtoupper($nombres);
 $_SESSION['id']= $id;
+if($recorrido=="si"){
+	header('Location: recorrido.php');
+}else{
+	header('Location: home.php');
+}
 
-header('Location: home.php');
 }
 
 function validar_conexion(){
