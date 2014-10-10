@@ -62,7 +62,7 @@
         <div>Recursos Naturales</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m2">
-       <img class="img-responsive "  src="img/clima.png">
+       <a href="cambio_climatico.php"><img class="img-responsive "  src="img/clima.png"></a>
         <div class="">Cambio Climatico</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m3">
