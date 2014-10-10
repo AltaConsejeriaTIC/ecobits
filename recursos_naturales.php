@@ -29,7 +29,6 @@ if(isset($_SESSION['id'])){
 <article>
 
 <div class="row">
-<br><br>
 <div class="col-xs-3"><b>EL agua</b>
 Es fundamental para la supervivencia y bienestar de los seres humanos por ello en esta seccion
    encontraremos indicadores y parametros sobre el agua su importancia y cuidado para preservarla por muchos años mas
