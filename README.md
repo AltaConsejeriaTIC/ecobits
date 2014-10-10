@@ -8,6 +8,20 @@
 
 ---------------------------------------------------------------------------------------------------
 
+#### OBJETIVOS
+
+> General
+>
+ Desarrollar un portal web que permita por medio de herramientas ludicas y multimedia, concientizar a los ciudadanos sobre el cuidado del medio ambiente
+>
+>Especificos
+>
+ *Orientar a los ciudadanos y en especial a los menores y jovenes sobre la utilidad y el aprevechamiento del uso de las TIC's como beneficio para la sociedad y el ambiente
+
+ *Aumentar la perspectiva tecnologica de la ciudad y hacerla ejemplo ambiental frente a otras por medio de aplicaciones tecnologicas
+
+---------------------------------------------------------------------------------------------------
+
 #### En este portal web se encontrara informacion sobre:
 
 * recursos naturales
