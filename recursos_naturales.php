@@ -28,12 +28,24 @@ if(isset($_SESSION['id'])){
   <div class="row">
 
   <div class="col-xs-3"><b>EL agua</b>
-<justify>Es fundamental para la supervivencia y bienestar de los seres humanos por ello en esta seccion
+Es fundamental para la supervivencia y bienestar de los seres humanos por ello en esta seccion
    encontraremos indicadores y parametros sobre el agua su importancia y cuidado para preservarla por muchos años mas
 Resulta curioso que el 70 por ciento de la Tierra sea agua y que el 70 por ciento de nuestro 
 cuerpo también sea agua. Quizás sea por eso que lo recomendable para tener una dieta saludable 
-y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en agua.</justify>
+y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en agua.
+<hr><br>
 
+
+<!-- Button trigger modal -->
+<button type="button" data-toggle="modal" data-target="#myModal">Launch modal</button>
+
+<div class="modal fade bs-example-modal-sm" id="myModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      ...
+    </div>
+  </div>
+</div>
 
   </div>
   <div class="col-xs-3"><b>El Aire</b>
@@ -63,7 +75,10 @@ formación, el mismo se forma en gran parte gracias a la misma vegetación y la 
  y la captación de CO2 sino que además sin vegetación no hay lluvias, no hay vida, podra 
  existir un mundo sin humanos, pero no sin árboles, al menos no uno con capacidad de albergar vida.
 
+<br><br>
+<a href="http://google.com.co">+ info</a>
   </div>
+
 
 </article>
 </div>
@@ -83,6 +98,9 @@ require_once "comun/footer.php";
     <script src="js/bootstrap.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/menu_reduccion.js"></script>
+    <script type="text/javascript" >
+    //$('#myModal').modal('toggle');
+        </script>
     
 
   
