@@ -82,7 +82,9 @@
 
 .m1 img,.m2 img,.m3 img,.m4 img,.m5 img,.m6 img{
   margin: auto;
-  width: 40%;
+  width: 60%;
+  margin-top:10px;
+  margin-bottom: 10px;
   transition: all 0.5s ease-in-out;
 }
 .m1 img:hover,.m2 img:hover,.m3 img:hover,.m4 img:hover,.m5 img:hover,.m6 img:hover{
