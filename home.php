@@ -23,8 +23,6 @@ if(isset($_SESSION['id'])){
 
 <!--contenido pagina-->
 
-
-
 <!--fin contenido pagina-->
 
 <?php
