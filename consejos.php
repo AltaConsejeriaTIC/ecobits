@@ -63,12 +63,12 @@
       </div>
       <div class="modal-body">
         
-
+      <img src="img/consejos1.jpg">
 
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Guardar Cambios</button>
+        
       </div>
     </div>
   </div>
