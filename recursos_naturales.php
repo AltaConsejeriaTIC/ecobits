@@ -80,6 +80,7 @@ Algunos de los recursos renovables son: el bosque, el agua, los vientos, los pec
 
 
   <div class="col-xs-3"><b>El Aire</b>
+  <img src="img/aire.png" class="img-resposive">
   En esta seccion se mostrara los diferentes factores e indicadores de contaminacion, indicadores 
   de contaminacion, la importancia de este recurso para nosotros.
   es vital para el funcionamiento del Planeta, ya que gracias a la composición del aire, se 
