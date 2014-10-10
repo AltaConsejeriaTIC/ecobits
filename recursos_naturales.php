@@ -30,6 +30,7 @@ if(isset($_SESSION['id'])){
 
 <div class="row">
 <div class="col-xs-3"><b>EL agua</b>
+<img src="img/agua.png" class="img-resposive imglogo">
 Es fundamental para la supervivencia y bienestar de los seres humanos por ello en esta seccion
    encontraremos indicadores y parametros sobre el agua su importancia y cuidado para preservarla por muchos años mas
 Resulta curioso que el 70 por ciento de la Tierra sea agua y que el 70 por ciento de nuestro 
@@ -49,6 +50,7 @@ y una larga vida sea el comer alimentos con un porcentaje del 70 por ciento en a
       <div class="modal-body">
         
 <h3>RECURSOS NATURALES</h3>
+
 Se denominan recursos naturales a aquellos bienes materiales y servicios que proporciona la
  naturaleza sin alteración por parte del ser humano; y que son valiosos para las sociedades
   humanas por contribuir a su bienestar y desarrollo de manera directa (materias primas,
@@ -79,7 +81,7 @@ Algunos de los recursos renovables son: el bosque, el agua, los vientos, los pec
 
 
   <div class="col-xs-3"><b>El Aire</b>
-  <img src="img/aire.png" class="img-resposive">
+  <img src="img/aire.png" class="img-resposive imglogo">
   En esta seccion se mostrara los diferentes factores e indicadores de contaminacion, indicadores 
   de contaminacion, la importancia de este recurso para nosotros.
   es vital para el funcionamiento del Planeta, ya que gracias a la composición del aire, se 
@@ -91,6 +93,7 @@ Algunos de los recursos renovables son: el bosque, el agua, los vientos, los pec
 
 
   <div class="col-xs-3"><b>Suelo</b>
+  <img src="img/roca.png" class="img-resposive imglogo">
   el suelo es un recursos natural renovable. Es la capa superior de la tierra, en ella se 
   desarrolla la vegetación. Sirve como depósito para la reserva del agua, nutrientes,oxigeno 
   para la respiracion de las raices y como soporte mecánico.
@@ -101,6 +104,7 @@ Por estas razones los suelos son importantes porque constituyen fuentes producto
 
 
   <div class="col-xs-3"><b>Vegetacion</b>
+  <img src="img/planta.png" class="img-resposive imglogo">
    la importancia de la vegetación y los árboles para la salud de la tierra ayuda
     a fijar el suelo para prevenir la erosión del mismo y la pérdida de nutrientes.
 
