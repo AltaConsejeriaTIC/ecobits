@@ -22,7 +22,7 @@
           <img src="img/banner2.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Cuida la naturaleza</h1>
+              <h1>Ecosistema</h1>
               <p>cuida de la naturaleza ya que este nos ofrece muy buenos recursos</p>
             </div>
           </div>
@@ -31,8 +31,8 @@
           <img src="img/banner1.png" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>No contamines</h1>
+              <p>Ayuda al medio almbiente para que cada dia sea mas saludable</p>
             </div>
           </div>
         </div>
@@ -41,8 +41,8 @@
           <img src="img/banner4.jpg" alt="Four slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              <h1>Consejos</h1>
+              <p>mira los consejos del portal</p>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@
  <div class="row placeholders">
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m1">
         <a href="recursos_naturales.php"><img class="img-responsive"  src="img/recu.png"></a>
-        <a href="recursos_naturales.php"><div>Recursos Naturales</div></a>
+        <div>Recursos Naturales</div>
       </div>
       <div class="col-xs-4 col-sm-2 placeholder _menu2 m2">
        <img class="img-responsive "  src="img/clima.png">
